@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_ATS
+name: alice-ats
 description: ALICE ATS
 type: application
 version: 0.1.0
